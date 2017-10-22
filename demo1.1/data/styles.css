@@ -65,6 +65,8 @@
 }
 .flow_shape {
 }
+.horizontal_line {
+}
 .paragraph1 {
   text-align:left;
 }
@@ -94,4 +96,27 @@
 .text_field1 {
   color:#000000;
   text-align:left;
+}
+.box_3 {
+}
+.line {
+}
+.icon {
+}
+.paragraph2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.image2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.ellipse {
 }
