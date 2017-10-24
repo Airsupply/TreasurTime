@@ -77,6 +77,8 @@
 }
 .image1 {
 }
+.placeholder {
+}
 .box_1 {
 }
 .box_2 {
@@ -92,6 +94,9 @@
 .primary_button {
   font-size:20px;
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 .text_field1 {
   color:#000000;
@@ -119,4 +124,14 @@
   color:#000000;
 }
 .ellipse {
+}
+._图片 {
+}
+.icon_text {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:8px;
+  color:#FFFFFF;
+  text-align:center;
 }
