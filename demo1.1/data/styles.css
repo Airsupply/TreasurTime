@@ -70,6 +70,61 @@
 .paragraph1 {
   text-align:left;
 }
+.ellipse {
+}
+.horizontal_line1 {
+}
+.contact_chips {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.537254901960784);
+}
+.contact_avatar {
+}
+.divider {
+  font-family:'Roboto Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.258823529411765);
+}
+.headline {
+  font-family:'Roboto Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+.primary_text_dark {
+  font-family:'Roboto Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+  text-align:left;
+}
+.secondary_text_dark {
+  font-family:'Roboto Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.537254901960784);
+}
+.primary_text_light {
+  font-family:'Roboto Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.flat_button {
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:#2196F3;
+}
+.card {
+}
 .shape1 {
 }
 .image {
@@ -123,7 +178,7 @@
   font-size:13px;
   color:#000000;
 }
-.ellipse {
+.ellipse1 {
 }
 ._图片 {
 }
