@@ -57,8 +57,12 @@
 }
 .shape {
   font-family:'ArialMT', 'Arial';
-  font-weight:normal;
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .paragraph {
   text-align:left;
@@ -136,6 +140,8 @@
 .image1 {
 }
 .placeholder {
+}
+.button {
 }
 .box_1 {
 }
