@@ -55,6 +55,9 @@
 .html_button {
   color:#000000;
 }
+.sticky_1 {
+  text-align:left;
+}
 .shape {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
@@ -88,21 +91,42 @@
 .contact_avatar {
 }
 .divider {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.258823529411765);
 }
 .headline {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:24px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
+.title {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:20px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+.subheader {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+.caption {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:rgba(0, 0, 0, 0.537254901960784);
+}
 .primary_text_dark {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -110,32 +134,82 @@
   text-align:left;
 }
 .secondary_text_dark {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.537254901960784);
 }
+.disabled_text_dark {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.258823529411765);
+}
 .primary_text_light {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
 }
+.float_button {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:24px;
+  color:#FFFFFF;
+}
 .flat_button {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#2196F3;
 }
+.status_bar_light {
+}
+.title_bar_light {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:20px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+  text-align:left;
+}
+.content_bg_light {
+}
+.dialog_light {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:20px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+  text-align:left;
+}
+.hint_text {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.258823529411765);
+}
 .card {
+}
+.heading_21 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
 }
 .shape1 {
 }
 .image {
   color:#000000;
+}
+.vertical_line {
 }
 .image1 {
 }
@@ -150,6 +224,10 @@
 .text_field {
   font-size:18px;
   color:#8A8A8A;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
   text-align:left;
 }
 .checkbox {
