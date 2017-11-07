@@ -118,6 +118,13 @@
   font-size:16px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
+.body_1 {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
 .caption {
   font-family:'Roboto';
   font-weight:400;
@@ -196,6 +203,13 @@
   color:rgba(0, 0, 0, 0.258823529411765);
 }
 .card {
+}
+.heading_11 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
 }
 .heading_21 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
